@@ -1,6 +1,5 @@
 ### Hi  👋 I'm bebe chen <br><br> <img src="https://komarev.com/ghpvc/?username=ssutsen&style=for-the-badge">
 
-<hr></hr>
 
 - 🏫 I'm studying in NTNU
 - 🌱 I’m currently learning frontend-develop
