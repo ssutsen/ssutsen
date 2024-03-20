@@ -4,6 +4,7 @@
 - 🏫 I'm studying in NTNU
 - 🌱 I’m currently learning frontend-develop
 - 📫 How to reach me: babe920604@gmail.com
+- My running project -> [here](https://github.com/Pantry-Pal-5)
 
 <hr></hr>
 
